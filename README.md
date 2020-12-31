@@ -10,7 +10,7 @@ python3 detect.py
 ```
 # VNC viewer MacOS + Raspberry Pi
 
-0. sudo raspi-config Enable Camera
+0. sudo raspi-config # Enable Camera
 1. sudo apt-get install tightvncserver
 2. tightvncserver
 3. vncserver :1 -geometry 1920x1080 -depth 24
