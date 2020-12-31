@@ -5,7 +5,8 @@
 python3 detect.py                              
 ```
 
-Bonus
+# Bonus
+
 ```
 # VNC viewer MacOS + Raspberry Pi
 
